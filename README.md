@@ -13,7 +13,7 @@ Hey there! I'm **Joseph Severe**, a developer and researcher exploring the inter
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Recently Worked On
 
 - 🔗 Built a **Chainlit app** integrating **LangChain** with a **fine-tuned Hugging Face model** for contextual university Q&A  
 - 🧠 Experimenting with **retrieval-augmented generation (RAG)**, **BERTopic**, and **FAISS**-powered semantic search  
