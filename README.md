@@ -1,5 +1,5 @@
-# Joseph Severe 🌍💡  
-🚀 **Software Engineer | Passionate About Education & Data**
+# Joseph Severe 
+**Software Engineer 
 ---
 
 ## 🎓 Education  
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 
-Hey there! I'm **Joseph Severe**, a developer and researcher exploring the intersection of artificial intelligence, accessibility, and meaningful user experience. I enjoy crafting full-stack solutions powered by cutting-edge machine learning and NLP techniques, and I’m passionate about creating tools that educate, inform, and empower.
+Hello! I'm **Joseph Severe**, a software engineer and researcher passionate about the intersection of artificial intelligence and accessibility. I specialize in creating AI and NLP tools that transform data into solutions that educate, inform, and empower.
 
 ---
 
