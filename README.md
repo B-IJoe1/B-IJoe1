@@ -1,5 +1,5 @@
-# Joseph Severe: Building Human-Centered AI and Smarter Interfaces 🌍💡  
-🚀 **LLM Engineer | Full Stack Developer | Passionate About Education & Equity**
+# Joseph Severe 🌍💡  
+🚀 **LLM Engineer | Full Stack Developer | Passionate About Education & Data**
 
 ---
 
@@ -49,7 +49,7 @@ Hey there! I'm **Joseph Severe**, a developer and researcher exploring the inter
 I'm always interested in:
 - 🧠 Collaborating on AI/NLP apps that solve real problems  
 - 💬 Mentoring or learning from others in tech  
-- 🛠 Building open-source tools for education and accessibility  
+- 🛠 Building open-source tools   
 
 ---
 
