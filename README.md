@@ -1,5 +1,5 @@
 # Joseph Severe 🌍💡  
-🚀 **LLM Engineer | Full Stack Developer | Passionate About Education & Data**
+🚀 **Software Engineer | Passionate About Education & Data**
 ---
 
 ## 🎓 Education  
