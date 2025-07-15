@@ -22,8 +22,6 @@ Hey there! I'm **Joseph Severe**, a developer and researcher exploring the inter
 - 🌍 Learning and communicating in multiple languages and disciplines  
 ---
 
-## 🧰 Tech Stack
-
 ## 🧰 Tech Stack  
 **Languages**: Python, JavaScript, TypeScript  
 **Frameworks/Tools**: React, Node.js, Express, MongoDB, Docker  
