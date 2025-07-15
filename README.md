@@ -1,7 +1,6 @@
 # Joseph Severe 
 ---
 Software Engineer
----
 
 ## 🎓 Education  
 - **Salem State University** – Computer Science  
