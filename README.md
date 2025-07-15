@@ -1,19 +1,20 @@
-# Joseph Severe 
+ Joseph Severe 
 ---
  Software Engineer
 ---
-## 🎓 Education  
+
+ 🎓 Education  
 - **Salem State University** – Computer Science  
 - **Break Through Tech @ MIT** – Applied Learning in AI & Innovation  
 ---
 
-## 🌟 About Me  
+🌟 About Me  
 
 Hello! I'm **Joseph Severe**, a software engineer and researcher passionate about the intersection of artificial intelligence and accessibility. I specialize in creating AI and NLP tools that transform data into solutions that educate, inform, and empower.
 
 ---
 
-## 🚀 What I’m Recently Worked On
+ 🚀 What I’m Recently Worked On
 
 - 🔗 Built a **Chainlit app** integrating **LangChain** with a **fine-tuned Hugging Face model** for contextual university Q&A  
 - 🧠 Experimenting with **retrieval-augmented generation (RAG)**, **BERTopic**, and **FAISS**-powered semantic search  
@@ -22,14 +23,14 @@ Hello! I'm **Joseph Severe**, a software engineer and researcher passionate abou
 - 🌍 Learning and communicating in multiple languages and disciplines  
 ---
 
-## 🧰 Tech Stack  
+ 🧰 Tech Stack  
 **Languages**: Python, JavaScript, TypeScript  
 **Frameworks/Tools**: React, Node.js, Express, MongoDB, Docker  
 **AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
 **Infra & DevOps**: RunPod, Git, VSCode
 
 ---
-## 🤝 Let’s Connect or Collaborate!
+ 🤝 Let’s Connect or Collaborate!
 
 I'm always interested in:
 - 🧠 Collaborating on AI/NLP apps that solve real problems  
