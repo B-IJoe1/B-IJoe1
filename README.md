@@ -1,5 +1,6 @@
 # Joseph Severe 
-**Software Engineer 
+---
+Software Engineer
 ---
 
 ## 🎓 Education  
