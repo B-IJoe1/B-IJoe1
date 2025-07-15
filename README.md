@@ -1,7 +1,7 @@
 # Joseph Severe 
 ---
-Software Engineer
-
+# Software Engineer
+---
 ## 🎓 Education  
 - **Salem State University** – Computer Science  
 - **Break Through Tech @ MIT** – Applied Learning in AI & Innovation  
