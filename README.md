@@ -10,6 +10,7 @@
 ## 🌟 About Me  
 
 Hey there! I'm **Joseph Severe**, a developer and researcher exploring the intersection of artificial intelligence, accessibility, and meaningful user experience. I enjoy crafting full-stack solutions powered by cutting-edge machine learning and NLP techniques, and I’m passionate about creating tools that educate, inform, and empower.
+
 ---
 
 ## 🚀 What I’m Working On
@@ -23,16 +24,11 @@ Hey there! I'm **Joseph Severe**, a developer and researcher exploring the inter
 
 ## 🧰 Tech Stack
 
-**Languages**  
-`Python` | `JavaScript` | `TypeScript`
-**Frameworks & Libraries**  
-`LangChain` | `Chainlit` | `Transformers` | `scikit-learn` | `React` | `Express`
-**AI & ML Tools**  
-`Hugging Face` | `BERTopic` | `FAISS` | `QLoRA` | `vLLM` | `OpenAI`
-**Web Dev & Backend**  
-`Node.js` | `HTML/CSS` | `MongoDB` | `FastAPI`
-**Dev Tools**  
-`Git` | `Docker` | `RunPod` | `VSCode`
+## 🧰 Tech Stack  
+**Languages**: Python, JavaScript, TypeScript  
+**Frameworks/Tools**: React, Node.js, Express, MongoDB, Docker  
+**AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
+**Infra & DevOps**: RunPod, Git, VSCode
 
 ---
 ## 🤝 Let’s Connect or Collaborate!
