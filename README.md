@@ -11,7 +11,7 @@
 
 🌟 About Me  
 
-Hello! I'm **Joseph Severe**, a software engineer and researcher passionate about the intersection of artificial intelligence and accessibility. I specialize in creating AI and NLP tools that transform data into solutions that educate, inform, and empower.
+Hello! I'm **Joseph Severe**, a software engineer and researcher passionate about the intersection of artificial intelligence and accessibility. I specialize in creating AI and NLP tools that transform data into solutions that educate, inform, and empower. I also like extracting and manipulating data to retrieve significant insights and create an impact with that information.  
 
 ---
 
