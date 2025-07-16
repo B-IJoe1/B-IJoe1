@@ -15,7 +15,7 @@ Hello! I'm **Joseph Severe**, a software engineer and researcher passionate abou
 
 ---
 
- 🚀 What I’m Recently Worked On
+ 🚀 What I’ve Recently Worked On
 
 - 🔗 Built a **Chainlit app** integrating **LangChain** with a **fine-tuned Hugging Face model** for contextual university Q&A  
 - 🧠 Experimenting with **retrieval-augmented generation (RAG)**, **BERTopic**, and **FAISS**-powered semantic search  
