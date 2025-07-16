@@ -2,7 +2,7 @@
 ---
  Software Engineer
 ---
-
+[LinkedIn](https://www.linkedin.com/in/joseph-s-15406020a/)
  🎓 Education  
 - **Salem State University** – Computer Science  
 - **Break Through Tech @ MIT** – Applied Learning in AI & Innovation  
@@ -24,7 +24,7 @@ Hello! I'm **Joseph Severe**, a software engineer and researcher passionate abou
 ---
 
  🧰 Tech Stack  
-**Languages**: Python, JavaScript, TypeScript  
+**Languages**: Python, Java, Javascript  
 **Frameworks/Tools**: React, Node.js, Express, MongoDB, Docker  
 **AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
 **Infra & DevOps**: RunPod, Git, VSCode
@@ -38,4 +38,4 @@ I'm always interested in:
 - 🛠 Building open-source tools   
 ---
 
-> “I believe tech should serve people—not the other way around.” – Joseph Severe
+> “You should be able to feel, think, and create!” – Joseph Severe
