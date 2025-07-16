@@ -3,6 +3,7 @@
  Software Engineer
 ---
 [LinkedIn](https://www.linkedin.com/in/joseph-s-15406020a/)
+
  🎓 Education  
 - **Salem State University** – Computer Science  
 - **Break Through Tech @ MIT** – Applied Learning in AI & Innovation  
