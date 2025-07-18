@@ -26,9 +26,9 @@ Hello! I'm **Joseph Severe**, a software engineer and researcher passionate abou
 
  Tech Stack  
  
-**Languages**: Python, Java, Javascript, SQL
-**AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
-**Infra & DevOps**: RunPod, Git, VSCode
+- **Languages**: Python, Java, Javascript, SQL
+- **AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
+- **Infra & DevOps**: RunPod, Git, VSCode
 
 
 ---
