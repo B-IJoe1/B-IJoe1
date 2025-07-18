@@ -19,7 +19,8 @@ Hello! I'm **Joseph Severe**, a software engineer and researcher passionate abou
 
 - Built a **Chainlit app** integrating **LangChain** with a **fine-tuned Hugging Face model** for contextual university Q&A  
 - Experimenting with **retrieval-augmented generation (RAG)**, **BERTopic**, and **FAISS**-powered semantic search  
-- Check out my Hugging Face models: [huggingface.co/Jsevere](https://huggingface.co/Jsevere)   
+- Check out my Hugging Face models: [huggingface.co/Jsevere](https://huggingface.co/Jsevere)
+  
 ---
 
  Tech Stack  
