@@ -11,25 +11,30 @@
 
 About Me
 
-Hello! I'm **Joseph Severe**, a software engineer and researcher passionate about the intersection of artificial intelligence and accessibility. I specialize in creating AI and NLP tools that transform data into solutions that educate, inform, and empower. I also like extracting and manipulating data to retrieve significant insights and create an impact with that information.  
+Hello! I'm **Joseph Severe**, a **Software Data Engineer** passionate about building scalable data pipelines and modern data architectures. I enjoy transforming raw data into reliable, analytics-ready systems that help organizations make informed decisions. My work focuses on designing **ETL/ELT workflows, Medallion lakehouse architectures, and dimensional data models** using tools like PySpark, SQL, Airflow, and dbt.
+
+I’m also interested in the intersection of **data engineering, analytics, and AI**, particularly how well-designed data platforms support machine learning and strategic decision-making.
 
 ---
 
- What I’ve Recently Worked On
+## What I’ve Recently Worked On
 
-- Built a **Chainlit app** integrating **LangChain** with a **fine-tuned Hugging Face model** for contextual university Q&A  
-- Experimenting with **retrieval-augmented generation (RAG)**, **BERTopic**, and **FAISS**-powered semantic search  
-- Check out my Hugging Face models: [huggingface.co/Jsevere](https://huggingface.co/Jsevere)
-  
+- Built a **Databricks Medallion Lakehouse** using **Delta Lake and PySpark**, creating ETL pipelines and Gold star-schema models for analytics  
+- Developed a **containerized weather data pipeline** using **Python, Airflow, dbt, PostgreSQL, and Docker**  
+- Designed **dimensional data warehouses** supporting KPI analytics and BI reporting  
+- Check out my projects on GitHub to see how I build **end-to-end data pipelines and modern data systems**
+
 ---
 
+## Tech Stack
 
- Tech Stack  
- 
-- **Languages**: Python, Java, Javascript, SQL
-- **AI/ML**: LangChain, Hugging Face, Transformers, FAISS, BERTopic  
-- **Infra & DevOps**: RunPod, Git, VSCode
+**Languages:** Python, SQL, Java, JavaScript  
 
+**Data Engineering:** PySpark, ETL/ELT, Data Modeling, Medallion Architecture, Delta Lake, dbt  
+
+**Data Platforms & Orchestration:** Databricks, Apache Airflow, PostgreSQL, SQL Server  
+
+**Cloud & DevOps:** Docker, AWS (Foundations), CI/CD Concepts, Git, VSCode
 
 ---
 
@@ -40,4 +45,4 @@ I'm always interested in:
 - Building open-source tools   
 ---
 
-> “You should be able to feel, think, and create!” – Joseph Severe
+> “You should be able to feel, think, then create!” – Joseph Severe
