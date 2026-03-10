@@ -4,6 +4,8 @@
 ---
 [LinkedIn](https://www.linkedin.com/in/joseph-s-15406020a/)
 
+[About Me Medium Article](https://medium.com/hack-diversity-movement/cohort-stories-meet-joseph-81654c38a4d3)
+
  Education  
 - **Salem State University** – Computer Science  
 - **Break Through Tech @ MIT** – Applied Learning in AI & Innovation  
